@@ -1,0 +1,29 @@
+{
+  "name": "node-p9fs",
+  "version": "0.0.1",
+  "description": "Server for p9fs protocol",
+  "main": "index.js",
+  "dependencies": {
+    "forever-monitor": "~1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/azukiapp/node-p9fs"
+  },
+  "keywords": [
+    "p9",
+    "p9fs",
+    "share",
+    "files"
+  ],
+  "author": "Éverton Ribeiro",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/azukiapp/node-p9fs/issues"
+  },
+  "homepage": "https://github.com/azukiapp/node-p9fs"
+}
